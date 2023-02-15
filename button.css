@@ -1,0 +1,35 @@
+.btn-main{
+          padding: 0.8rem 2rem;
+          background: rgba(46, 29, 3, 1);
+          border-radius: 10px;
+          color: white;
+          margin: 3rem 0;
+          border: none;
+}
+.btn-blog{
+          padding: 0.5rem 1rem;
+          width: 100%;
+          background-color:  rgba(46, 29, 3, 1);
+          color: white;
+          border: none;
+          border-radius: 0.5rem;
+          margin: 1rem 0;
+}
+.btn-blog-1{
+          padding: 0.5rem 1rem;
+          background: transparent;
+          color:  rgba(46, 29, 3, 1);
+          border: 1px solid  rgba(46, 29, 3, 1);
+          margin: 1rem 0;
+          border-radius: 0.5rem;
+          width: 100%;
+
+
+}
+
+
+
+
+
+
+
