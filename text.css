@@ -98,9 +98,15 @@ margin-top: -1.5rem;
           line-height: 1.5rem;
 
 }
-
-
-
+.foot p{
+          font-size: 1.3rem;
+}
+.foot-board-1 h2{
+font-size: 2rem;
+}
+.foot-board-1 p{
+          margin: 1rem 0;
+}
 
 
 
